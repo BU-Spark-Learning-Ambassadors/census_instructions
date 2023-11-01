@@ -5,7 +5,7 @@
 
 ## Difficulty = Easy/Medium ⭐️⭐️
 
-# Starter Code (Colab) [Link 🔗](https://colab.research.google.com/drive/12zxprGgNvtooaZiNU7whSUHvwbDPMiHp#scrollTo=XOqBdg-rITRv)
+### Starter Code (Colab) [Link 🔗](https://colab.research.google.com/drive/12zxprGgNvtooaZiNU7whSUHvwbDPMiHp#scrollTo=XOqBdg-rITRv)
 
 ## What you will build:
 -  A project that gets data from the official Census API and uses Matplotlib to create visualizations of ethnicity breakdown in MA.
