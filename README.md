@@ -18,12 +18,13 @@
 
 # Instructions
 ## 🚀 Setup
-
-### Clone this repo to your local machine:
-
+1. Clone this repo
+2. Fill in empty prompts in template code
+3. Create bar chart and pie chart
+4. Completed!
+****
 ## 🏆 Challenge
-
--
+- Fill in the pie chart without using any outside resources, it's fairly similar to the bar chart!
 
 ## 🛟 Need Help?
 
