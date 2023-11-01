@@ -5,6 +5,8 @@
 
 ## Difficulty = Easy/Medium ⭐️⭐️
 
+## Starter Code (Colab) [🔗](https://colab.research.google.com/drive/12zxprGgNvtooaZiNU7whSUHvwbDPMiHp#scrollTo=XOqBdg-rITRv)
+
 ## What you will build:
 -  A project that gets data from the official Census API and uses Matplotlib to create visualizations of ethnicity breakdown in MA.
 
@@ -17,11 +19,19 @@
 - 20 min
 
 # Instructions
-## 🚀 Setup
+
+## 🚀 Setup (Using Colab)
+1. Make a copy of this [Google Colab](https://colab.research.google.com/drive/12zxprGgNvtooaZiNU7whSUHvwbDPMiHp#scrollTo=XOqBdg-rITRv)
+2. Fill in empty prompts in template code
+3. Create bar chart and pie chart
+4. Completed!
+
+## 🚀 Setup (Locally)
 1. Clone this repo
 2. Fill in empty prompts in template code
 3. Create bar chart and pie chart
 4. Completed!
+
 ****
 ## 🏆 Challenge
 - Fill in the pie chart without using any outside resources, it's fairly similar to the bar chart!
